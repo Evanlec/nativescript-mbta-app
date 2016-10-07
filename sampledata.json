@@ -1,0 +1,38 @@
+{
+    "stop_id": "place-andrw",
+    "stop_name": "Andrew",
+    "mode": [
+        {
+            "route_type": "1",
+            "mode_name": "Subway",
+            "route": [
+                {
+                    "route_id": "Red",
+                    "route_name": "Red Line",
+                    "direction": [
+                        {
+                            "direction_id": "0",
+                            "direction_name": "Southbound",
+                            "trip": [
+                                {
+                                    "trip_id": "983AFEFE",
+                                    "trip_name": "",
+                                    "pre_dt": "1468217211",
+                                    "pre_away": "708",
+                                    "vehicle": {
+                                        "vehicle_id": "54470124",
+                                        "vehicle_lat": "42.36243",
+                                        "vehicle_lon": "-71.08581",
+                                        "vehicle_bearing": "95",
+                                        "vehicle_timestamp": "1468216455"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alert_headers": []
+}
